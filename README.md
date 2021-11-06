@@ -1,4 +1,4 @@
- Zadanie_rekrutacyjne_React_Native
+Apliakcja mobilna - pobieranie danych z API w formie listy, galeria zdjęć, lista komentarzy oraz opcaja dodawania komentarzy
  
  ## 📖 Documentation
 The full documentation for React Native can be found on our https://reactnative.dev/docs/getting-started.
@@ -34,5 +34,4 @@ npx react-native run-android is one way to run your app - you can also run it di
 ## Narzędzia :
 Visual Studio Code,
 Android Studio
-## Elementy do poprawy/modyfikacji:
--nie zastosowano czcionki Gilroy(nie znalazłem darmowej czcionki), wykorzystano podobną czcionkę Roboto
+
